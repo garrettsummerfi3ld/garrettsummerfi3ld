@@ -7,6 +7,6 @@
 
 ### Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=garrettsummerfi3ld)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=garrettsummerfi3ld&count_private=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettsummerfi3ld)](https://github.com/anuraghazra/github-readme-stats)
+[![Top language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettsummerfi3ld&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
