@@ -1,14 +1,47 @@
-### hi there 👋
+<h3 align="center">hi there 👋</h3> 
 
-- 🔭 I’m currently working on: `galaxetv` `pizzabyte` `other personal projects`
-- 🌱 I’m currently learning `golang` `docker` `minecraft performance tuning`
-- 🎉 Other hobbies include `video editing` `photography`
-- 😄 Pronouns: `he/him`
+- 🔭 i’m currently working on: [`galaxetv`](https://github.com/GalaxeTV) [`pizzabyte`](https://github.com/pizzabytenet) `other personal projects`
+- 🌱 i’m currently learning `k8s` `golang` `devops` `automation`
+- 🎉 other hobbies include `video editing` `photography` `cars`
+- 😄 pronouns: `he/him`
 
-### Stats
+<h3 align="center">github stats</h2>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=garrettsummerfi3ld&count_private=true&theme=github_dark#gh-dark-mode-only&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=garrettsummerfi3ld&count_private=true&theme=default#gh-light-mode-only&show_icons=true)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![Top language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettsummerfi3ld&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=garrettsummerfi3ld&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only#gh-light-mode-only)
+<p align=center>
+  <div align=center>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=garrettsummerfi3ld&theme=github_dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=garrettsummerfi3ld&theme=default&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=garrettsummerfi3ld&count_private=trueshow_icons=true" />
+    </picture>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=garrettsummerfi3ld&theme=github_dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=garrettsummerfi3ld&theme=default"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garrettsummerfi3ld" />
+    </picture>
+  </div>
+  <div align=center>
+    <picture>
+      <source
+        srcset="https://streak-stats.demolab.com?user=garrettsummerfi3ld&theme=github-dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://streak-stats.demolab.com?user=garrettsummerfi3ld"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img align="center" src="https://streak-stats.demolab.com?user=garrettsummerfi3ld" />
+    </picture>
+  </div>
