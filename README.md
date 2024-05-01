@@ -1,7 +1,7 @@
 <h3 align="center">hi there 👋</h3> 
 
-- 🔭 i’m currently working on: [`galaxetv`](https://github.com/GalaxeTV) [`pizzabyte`](https://github.com/pizzabytenet) `other personal projects`
-- 🌱 i’m currently learning `k8s` `golang` `devops` `automation`
+- 🔭 i’m currently working on: [`galaxetv`](https://github.com/GalaxeTV) [`pizzabyte`](https://github.com/PizzabyteLLC) `other personal projects`
+- 🌱 i’m currently learning `k8s` `golang` `devops` `automation` `laravel`
 - 🎉 other hobbies include `video editing` `photography` `cars`
 - 😄 pronouns: `he/him`
 
